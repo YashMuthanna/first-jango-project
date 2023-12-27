@@ -1,4 +1,4 @@
-# first-jango-project / Basic Blog website
+# first-Django-project / Basic Blog website
 Just to try out simple Django features and get a hang of it 
 
 To run: python manage.py runserver (if on mac python3 manage.py runserver) 
